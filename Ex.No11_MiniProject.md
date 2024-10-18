@@ -4,9 +4,11 @@
 ### REGISTER NUMBER : 212222240049
 
 ### AIM: 
+
 To write a python program to simulate the game using Pygame library and basic AI Techniques.
 
 ### Algorithm:
+
 1. Initialize game: Set up Pygame, screen, clock, load images, and initialize game variables (player, enemies, score, etc.).
 
 2. Handle input: Capture keyboard input for player movement and shooting bullets in different directions.
@@ -20,6 +22,7 @@ To write a python program to simulate the game using Pygame library and basic AI
 6. Game loop control: Repeat the game loop while handling game over conditions and restarting the game if needed.
 
 ### Program:
+
 ```Python
 import pygame
 import random
