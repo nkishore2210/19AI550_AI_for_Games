@@ -1,7 +1,7 @@
 # Ex.No: 8  Implementation of Minimax Search
 #### DATE: 14.11.2024             
 #### NAME: KISHORE N
-#### REGISTER NUMBER : 212222230051
+#### REGISTER NUMBER : 212222240049
 
 ## Aim: 
 Write a mini-max search algorithm to find the optimal value of MAX Player from the given graph.
