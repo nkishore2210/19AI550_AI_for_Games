@@ -1,5 +1,6 @@
 # Ex.No: 6  Implementation of Zombie survival game using A* search 
-### DATE: 13/11/24                                                                          
+### DATE: 13/11/2024   
+### NAME: KISHORE N
 ### REGISTER NUMBER : 212222240049
 
 ### AIM: 
