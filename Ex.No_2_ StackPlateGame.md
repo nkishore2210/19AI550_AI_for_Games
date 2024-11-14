@@ -1,5 +1,5 @@
 # Ex.No: 2 Implementation of Stack Plate game using Queue 
-### DATE: 09/08/2024        
+### DATE: 09/10/2024        
 ### NAME: KISHORE N
 ### REGISTER NUMBER : 212222240049
 ## AIM: 
